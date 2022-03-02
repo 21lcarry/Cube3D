@@ -24,14 +24,14 @@ Control:
 ---
 General settings (.cub file):
 
-`R` - Resolution 
-`S` - Sprite texture 
-`C` - Sky color 
-`F` - Floor color 
-`NO` - North wall texture 
-`SO` - South wall texture 
-`WE` - West wall texture 
-`EA` - East wall texture 
+`R` - Resolution
+`S` - Sprite texture
+`C` - Sky color
+`F` - Floor color
+`NO` - North wall texture
+`SO` - South wall texture
+`WE` - West wall texture
+`EA` - East wall texture
 
 Map settings:
 
