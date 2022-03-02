@@ -16,26 +16,26 @@ make
 ./cub3D <map.cub> --save
 ```
 ---
-Control:
-<kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd> - move
-<kbd>LEFT</kbd><kbd>RIGHT</kbd> - rotate camera
-<kbd>ESC</kbd> - exit
+Control:  
+<kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd> - move  
+<kbd>LEFT</kbd><kbd>RIGHT</kbd> - rotate camera  
+<kbd>ESC</kbd> - exit  
 
 ---
 General settings (.cub file):
 
-`R` - Resolution
-`S` - Sprite texture
-`C` - Sky color
-`F` - Floor color
-`NO` - North wall texture
-`SO` - South wall texture
-`WE` - West wall texture
-`EA` - East wall texture
+`R` - Resolution  
+`S` - Sprite texture  
+`C` - Sky color  
+`F` - Floor color  
+`NO` - North wall texture  
+`SO` - South wall texture  
+`WE` - West wall texture  
+`EA` - East wall texture  
 
 Map settings:
 
-`0` - Empty space
-`1` - Wall
-`2` - Sprite
-`N, S, W, E` - player start position and spawning orientation
+`0` - Empty space  
+`1` - Wall  
+`2` - Sprite  
+`N, S, W, E` - player start position and spawning orientation  
